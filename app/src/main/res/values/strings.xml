@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyAppNavView</string>
+    <string name="navopen">navigation_drawer_open</string>
+    <string name="navclose">navigation_drawer_close</string>
 </resources>
